@@ -44,7 +44,9 @@ SelfHealingPOC is a proof of concept project for implementing self-healing capab
     ```
 
 3. **Run Docker Compose**:
+    Navigate to the `infra` folder and run Docker Compose:
     ```bash
+    cd infra
     docker-compose up
     ```
 
@@ -68,5 +70,3 @@ SelfHealingPOC is a proof of concept project for implementing self-healing capab
 ## Usage
 To run the tests, use the following command:
 
-```bash
-mvn test
