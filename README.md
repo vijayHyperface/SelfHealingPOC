@@ -70,3 +70,5 @@ SelfHealingPOC is a proof of concept project for implementing self-healing capab
 ## Usage
 To run the tests, use the following command:
 
+```bash
+mvn test
